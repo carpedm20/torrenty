@@ -1,0 +1,7 @@
+setup.py
+pirate/__init__.py
+pirate.egg-info/PKG-INFO
+pirate.egg-info/SOURCES.txt
+pirate.egg-info/dependency_links.txt
+pirate.egg-info/requires.txt
+pirate.egg-info/top_level.txt
