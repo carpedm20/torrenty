@@ -1,7 +1,0 @@
-setup.py
-torrenty/__init__.py
-torrenty.egg-info/PKG-INFO
-torrenty.egg-info/SOURCES.txt
-torrenty.egg-info/dependency_links.txt
-torrenty.egg-info/requires.txt
-torrenty.egg-info/top_level.txt

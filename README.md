@@ -1,9 +1,9 @@
 torrenty
 ========
 
-*Use the Torrent, Luke...*
+> Use the Torrent, Luke...
 
-I just want to download a movie with python
+I just want to download a movie with python.
 
 
 License
